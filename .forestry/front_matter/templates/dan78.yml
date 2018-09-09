@@ -1,0 +1,12 @@
+---
+label: dan78
+hide_body: false
+is_partial: false
+fields:
+- type: field_group_list
+  name: re2
+  label: re
+  fields:
+  - type: text
+    name: name
+    label: name
